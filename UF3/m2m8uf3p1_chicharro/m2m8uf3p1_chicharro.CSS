@@ -1,0 +1,70 @@
+body{
+  background-color: lightgray;
+  margin: 0;
+  padding: 0;
+}
+h1{
+  margin: 1%;
+  padding: 2%;
+}
+p{
+  margin: 1%;
+  padding: 2%;
+}
+
+#Cabezera{
+background-color: #FFF
+}
+
+#cupula{
+  width: 200px;
+}
+
+#Imagens{
+width: 200px;
+}
+
+#menu{
+  margin: 0;
+  padding: 0;
+  width: 93%;
+}
+
+#menu li{
+  display: inline;
+  margin: 0 5px;
+}
+
+#CAJA1{
+display: inline-block;
+background-color: white;
+width: 300px;
+}
+
+#asd{
+margin-left: 235px;
+}
+
+#asd1{
+  margin-left: 80px;
+}
+
+#Imagen01{
+width: 300px;
+}
+
+#Imagen02{
+  margin-top: 5px;
+  margin-left: 5px;
+width: 50px;
+}
+
+#CAJA1{
+  margin: 10px;
+  background-position: top;
+
+  box-shadow: 5px 5px 5px gray;
+}
+#texto{
+float: right;
+}

@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+}
+
+#primero{
+  border: solid 2px;
+  background-color: #ffaa80;
+}
+
+#segundo{
+border: solid 2px;
+height: 500px;
+width: 60%;
+background-color: #ffaa80;
+float: left;
+margin: 1% 0;
+}
